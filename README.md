@@ -7,4 +7,6 @@ description: >-
 
 # Introduction
 
+{% embed url="https://university-of-guelph.gitbook.io/robodk-lab-documentation/" %}
+
 ## acce
