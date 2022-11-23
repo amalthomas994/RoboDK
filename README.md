@@ -7,7 +7,7 @@ description: >-
 
 # Introduction
 
-This page provides a brief tutorial on installing and configuring RoboDK on various operating systems.
+This page provides a brief tutorial on installing and configuring RoboDK on various operating systems as well as provides links to the official documentation and YouTube channel of RoboDK.
 
 ## Official Documentation
 
@@ -67,5 +67,9 @@ tar -xvf Install-RoboDK.tar.gz
 3. Drag the application icon to your Applications folder.
 
 
+
+The installation procedure can also be followed along by watching the following YouTube tutorial.
+
+{% embed url="https://www.youtube.com/watch?list=PLjiA6TvRACQfltgBxfEiXkZoj0YBFoaO3&v=qBSQhG8_HCQ" %}
 
 ##
