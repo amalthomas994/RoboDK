@@ -6,4 +6,4 @@
 
 ## Lab 1
 
-* [Page 1](lab-1/page-1.md)
+* [Create Station](lab-1/create-station.md)
