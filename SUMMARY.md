@@ -3,6 +3,7 @@
 * [Introduction](README.md)
   * [Interface](introduction/interface.md)
   * [Robot Movements and Targets](introduction/robot-movements-and-targets.md)
+  * [Programs](introduction/programs.md)
 
 ## Lab 1
 

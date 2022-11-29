@@ -32,12 +32,6 @@ Documentation for TCP
 
 {% embed url="https://www.youtube.com/watch?index=5&list=PLjiA6TvRACQfltgBxfEiXkZoj0YBFoaO3&v=g4qG0p2eqm8" %}
 
-**Reference Frames:**
-
-{% embed url="https://robodk.com/doc/en/Interface.html#RobotReference" %}
-Documentation for Reference Frames
-{% endembed %}
-
 ****
 
 ### Robot Targets
@@ -47,4 +41,12 @@ Robot targets allow you to record specific robot positions so that the robot can
 {% embed url="https://www.youtube.com/watch?index=6&list=PLjiA6TvRACQfltgBxfEiXkZoj0YBFoaO3&v=YWLYa3Q90RY" %}
 
 {% embed url="https://www.youtube.com/watch?index=7&list=PLjiA6TvRACQfltgBxfEiXkZoj0YBFoaO3&v=1f29DT0e6-s" %}
+
+**Reference Frames:**
+
+{% embed url="https://robodk.com/doc/en/Interface.html#RobotReference" %}
+Documentation for Reference Frames
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?index=9&list=PLjiA6TvRACQfltgBxfEiXkZoj0YBFoaO3&v=yns3FLkVu0s" %}
 
