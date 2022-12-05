@@ -11,3 +11,7 @@
 * [Create Targets](lab-1/create-targets.md)
 * [Create Program](lab-1/create-program.md)
 * [Modify Path](lab-1/modify-path.md)
+
+## Lab 2
+
+* [Create Station](lab-2/create-station.md)
