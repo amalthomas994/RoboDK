@@ -8,7 +8,7 @@ description: Follow these instructions to create a new station and load assets.
 2. Create a new World Reference Frame reference frame.
 3. Import the **Table.stl** 3D into the station.
 4. Create a "Table Workspace Reference Frame".
-5. Set the X, Y, Z coordinates of this reference frame to the following: <img src="../.gitbook/assets/image (9).png" alt="" data-size="line">
+5. Set the X, Y, Z coordinates of this reference frame to the following: <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">
 6. Import the **Fanuc-LR-Mate-200iC.robot** file into RoboDK.
 7. Reposition the robot on top of the table by setting the Z coordinate of the Fanuc Base Reference frame to 1098.350 mm.
 8. Set the X and Y coordinate of the same frame to X = 450.00 mm, Y = 0.00 mm.
