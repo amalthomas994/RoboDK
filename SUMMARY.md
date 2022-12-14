@@ -23,3 +23,11 @@
   * [Create Program](lab-3/lab-3-drilling-operation/create-program.md)
   * [Create Another Drilling Program](lab-3/lab-3-drilling-operation/create-another-drilling-program.md)
   * [Combine Programs](lab-3/lab-3-drilling-operation/combine-programs.md)
+
+## Lab 4
+
+* [Lab 4: Pick and Place](lab-4/lab-4-pick-and-place/README.md)
+  * [Create Station](lab-4/lab-4-pick-and-place/create-station.md)
+  * [Attach and Detach Objects](lab-4/lab-4-pick-and-place/attach-and-detach-objects.md)
+  * [Create Pick and Place Program](lab-4/lab-4-pick-and-place/create-pick-and-place-program.md)
+  * [Create Pick and Stack Progam](lab-4/lab-4-pick-and-place/create-pick-and-stack-progam.md)

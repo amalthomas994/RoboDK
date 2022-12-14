@@ -16,7 +16,7 @@ description: Follow these instructions to create a new station and load assets.
 10. Import the **UR10e.robot** file into RoboDK.
 11. Reposition the robot on top of the table by setting the Z coordinate of the UR10e Base Reference frame to the same Z coordinate as the "Table Workspace Reference Frame".
 12. Set the X and Y coordinate of the same frame to X = 450.00 mm, Y = 0.00 mm.
-13. Import a tool and attach it to the robot by clicking the "Add a tool to a Robot" button <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> and selecting the **Spindle.tool** file.
+13. Import a tool and attach it to the robot by clicking the "Add a tool to a Robot" button <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> and selecting the **Spindle.tool** file.
 14. The spindle tool should be imported into RoboDK and should be attached to the flange of the robot. You may notice that the tool is in a sideways orientation. You can fix this by double-clicking on the "UR10e" object in the station tree to open the robot panel and change the Joint angle of joint 6 $$(\theta_6)$$to $$90\degree$$in the Joint axis jog settings.
 15. Right-click on the tool in the station tree and select "Active Tool".
 16. Import the **cutting\_sheet.stl** file.
