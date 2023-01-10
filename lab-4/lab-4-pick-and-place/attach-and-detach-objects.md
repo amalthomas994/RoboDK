@@ -1,6 +1,6 @@
 # Attach and Detach Objects
 
-1. Click on the "Simulation Event Instruction" ![](<../../.gitbook/assets/image (1).png>) button to open the "Event Instruction" dialog.
+1. Click on the "Simulation Event Instruction" ![](<../../.gitbook/assets/image (1) (2).png>) button to open the "Event Instruction" dialog.
 2. Select "Attach object" as the action and ensure that the "RobotiQ 2f-85 Gripper" is the selected tool (TCP).
 3. Leave the "measure distance as:" option to "Default".
 4. Click OK.
